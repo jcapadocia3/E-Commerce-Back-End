@@ -47,7 +47,7 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## Installation and Instructions
 - Download app files via GitHub
-- In the ".env" file, change the "DB_USER" and "DB_PW" fields to your personal MySQL password
+- In the ".env" file, change the "DB_USER" and "DB_PW" fields to your personal MySQL credentials
 - Open GitBash/Terminal to access the command line
 - Via the command line:
     - type/run "npm install" to install required dependencies for use
