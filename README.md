@@ -58,7 +58,7 @@ THEN I am able to successfully create, update, and delete data in my database
     - type/run "exit"
     - type/run "cd ../"
     - type/run "node seeds/index.js"
-    - type/run "nodemon server.js" to begin SQL execution
+    - type/run "nodemon server.js" to begin server execution/initialization
 - Open Insomnia Core
     - Enter any route created via the written code in /routes/api directory
     - Utilize the GET, POST, PUT, DELETE functionality of Insomnia Core to view and manipulate the database as needed
