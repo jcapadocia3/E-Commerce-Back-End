@@ -23,7 +23,8 @@ The purpose of this project is to allow a user to access and manipulate a databa
 <img src="./assets/images/imgFile" alt="Final Product" width="600">
 
 - Video walkthrough of how the project works via the command line<br>
-<a target="_blank" href="url">Click Here</a>
+    1) This first video walkthrough will demonstrate the application's GET routes to return both <b>ALL</b> and <b>SINGLE</b> categories, products, and tags.<br><br>
+<a target="_blank" href="https://watch.screencastify.com/v/eDWVQaRu4GF3181AdBqW">Click Here</a>
 
 ## User Story
 ```
