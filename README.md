@@ -26,8 +26,11 @@ The purpose of this project is to allow a user to access and manipulate a databa
     1) This video walkthrough below will demonstrate the application's GET routes to return both <b>ALL</b> and <b>SINGLE</b> categories, products, and tags.<br><br>
 <a target="_blank" href="https://watch.screencastify.com/v/eDWVQaRu4GF3181AdBqW">Click Here</a>
 
-    1) This video walkthrough below will demonstrate the application's POST, PUT, and DELETE routes for categories.<br><br>
+    2) This video walkthrough below will demonstrate the application's POST, PUT, and DELETE routes for <b>categories</b>.<br><br>
 <a target="_blank" href="https://watch.screencastify.com/v/YHyKnbeuixLvguY5cSZv">Click Here</a>
+
+    3) This video walkthrough below will demonstrate the application's POST, PUT, and DELETE routes for <b>tags</b>.<br><br>
+<a target="_blank" href="https://watch.screencastify.com/v/S5aA4ikn2o7bCECFdIIn">Click Here</a>
 
 ## User Story
 ```
