@@ -22,7 +22,7 @@ The purpose of this project is to allow a user to access and manipulate a databa
 - Image of final product created<br>
 <img src="./assets/images/finalproduct.png" alt="Final Product" width="900">
 
-- Video walkthrough of how the project works via the command line<br>
+- Video walkthrough of how the project works via Insomnia Core<br>
     1) This video walkthrough below will demonstrate the application's GET routes to return both <b>ALL</b> and <b>SINGLE</b> categories, products, and tags.<br>
 <a target="_blank" href="https://watch.screencastify.com/v/eDWVQaRu4GF3181AdBqW">Click Here</a>
 
